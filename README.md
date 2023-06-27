@@ -1,7 +1,7 @@
 # pooyagheyami
 My resume
 Name: Pouya Ghiami
-Country: Resident of Turkey, Van
+Country: Yerevan , Armania
 email: pooyagheyami@gmail.com
 History: Since 1995 I have worked with 286 computers and DOS and NC
 I learned C and C ++ from the book rap myself
